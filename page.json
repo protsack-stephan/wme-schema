@@ -1,0 +1,90 @@
+{
+  "name": "Adi Yussuf",
+  "alterName": [
+    "Yussuf Adi"
+  ],
+  "identifier": 32650531,
+  "version": 1025043049,
+  "dateModified": "2021-05-25T12:08:03Z",
+  "url": "https://en.wikipedia.org/wiki/Adi_Yussuf",
+  "namespace": {
+    "name": "Article",
+    "identifier": 0
+  },
+  "inLanguage": {
+    "name": "English",
+    "identifier": "en"
+  },
+  "mainEntity": {
+    "identifier": "Q4682624",
+    "url": "https://www.wikidata.org/wiki/Special:EntityData/Q4682624.json"
+  },
+  "additionalEntities": [
+    {
+      "identifier": "Q100",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q100.json",
+      "aspects": [
+        "L.uk"
+      ]
+    },
+    {
+      "identifier": "Q1048694",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q1048694.json",
+      "aspects": [
+        "T"
+      ]
+    },
+    {
+      "identifier": "Q1139587",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q1139587.json",
+      "aspects": [
+        "L.uk"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Category:1706 births",
+      "url": "https://en.wikipedia.org/wiki/Category:1706_births"
+    },
+    {
+      "name": "Category:1790 deaths",
+      "url": "https://en.wikipedia.org/wiki/Category:1790_deaths"
+    }
+  ],
+  "templates": [
+    {
+      "name": "Template:Abbr",
+      "url": "https://en.wikipedia.org/wiki/Template:Abbr"
+    },
+    {
+      "name": "Template:Authority control",
+      "url": "https://en.wikipedia.org/wiki/Template:Authority_control"
+    }
+  ],
+  "redirects": [
+    {
+      "name": "Abdillahie Yussuf",
+      "url": "https://en.wikipedia.org/wiki/Abdillahie_Yussuf"
+    },
+    {
+      "name": "Abdillahie Abdalla Yussuf",
+      "url": "https://en.wikipedia.org/wiki/Abdillahi_Abdalla_Yussuf"
+    }
+  ],
+  "isPartOf": {
+    "name": "Wikipedia",
+    "identifier": "enwiki"
+  },
+  "articleBody": {
+    "html": "...html goes here...",
+    "wikitext": "...wikitext goes here..."
+  },
+  "license": [
+    {
+      "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+      "identifier": "CC-BY-SA-3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}
