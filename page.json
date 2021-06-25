@@ -4,8 +4,57 @@
     "Yussuf Adi"
   ],
   "identifier": 32650531,
-  "version": 1025043049,
   "dateModified": "2021-05-25T12:08:03Z",
+  "protection": [
+    {
+      "type": "edit",
+      "level": "autoconfirmed",
+      "expiry": "infinity"
+    },
+    {
+      "type": "move",
+      "level": "sysop",
+      "expiry": "infinity"
+    }
+  ],
+  "version": {
+    "identifier": 1025043049,
+    "comment": "Undid revision 1029524599 by <a href=\"/wiki/Special:Contributions/Bumsowee\" title=\"Special:Contributions/Bumsowee\">Bumsowee</a> (<a href=\"/wiki/User_talk:Bumsowee\" title=\"User talk:Bumsowee\">talk</a>) that parameter is for distance; if you have source please do update correct parameter :)",
+    "tags": [
+      "mw-...",
+      "another-tag"
+    ],
+    "isMinorEdit": false,
+    "isFlaggedStable": false,
+    "scores": {
+      "damaging": {
+        "prediction": false,
+        "probability": {
+          "false": 0.959002615965355,
+          "true": 0.040997384034645014
+        }
+      },
+      "goodfaith": {
+        "prediction": true,
+        "probability": {
+          "false": 0.01258411739167109,
+          "true": 0.9874158826083289
+        }
+      }
+    },
+    "editor": {
+      "name": "Ivasykus",
+      "editCount": 0,
+      "groups": [],
+      "isBot": true,
+      "isAnonymous": false,
+      "dateStarted": "2021-05-25T12:08:03Z"
+    },
+    "diffSize": {
+      "value": 125,
+      "unitText": "B"
+    }
+  },
   "url": "https://en.wikipedia.org/wiki/Adi_Yussuf",
   "namespace": {
     "name": "Article",
@@ -45,7 +94,7 @@
   "categories": [
     {
       "name": "Category:1706 births",
-      "url": "https://en.wikipedia.org/wiki/Category:1706_births"
+      "url": "https://en.wikipedia.org/wiki/Category:1790_deaths"
     },
     {
       "name": "Category:1790 deaths",
