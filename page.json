@@ -1,10 +1,10 @@
 {
   "name": "Adi Yussuf",
-  "alterName": [
+  "alternate_name": [
     "Yussuf Adi"
   ],
   "identifier": 32650531,
-  "dateModified": "2021-05-25T12:08:03Z",
+  "date_modified": "2021-05-25T12:08:03Z",
   "protection": [
     {
       "type": "edit",
@@ -24,8 +24,8 @@
       "mw-...",
       "another-tag"
     ],
-    "isMinorEdit": false,
-    "isFlaggedStable": false,
+    "is_minor_edit": false,
+    "is_flagged_stable": false,
     "scores": {
       "damaging": {
         "prediction": false,
@@ -44,15 +44,15 @@
     },
     "editor": {
       "name": "Ivasykus",
-      "editCount": 0,
+      "edit_count": 0,
       "groups": [],
-      "isBot": true,
-      "isAnonymous": false,
-      "dateStarted": "2021-05-25T12:08:03Z"
+      "is_bot": true,
+      "is_anonymous": false,
+      "date_started": "2021-05-25T12:08:03Z"
     },
-    "diffSize": {
+    "diff_size": {
       "value": 125,
-      "unitText": "B"
+      "unit_text": "B"
     }
   },
   "url": "https://en.wikipedia.org/wiki/Adi_Yussuf",
@@ -60,15 +60,15 @@
     "name": "Article",
     "identifier": 0
   },
-  "inLanguage": {
+  "in_language": {
     "name": "English",
     "identifier": "en"
   },
-  "mainEntity": {
+  "main_entity": {
     "identifier": "Q4682624",
     "url": "https://www.wikidata.org/wiki/Special:EntityData/Q4682624.json"
   },
-  "additionalEntities": [
+  "additional_entities": [
     {
       "identifier": "Q100",
       "url": "https://www.wikidata.org/wiki/Special:EntityData/Q100.json",
@@ -121,11 +121,11 @@
       "url": "https://en.wikipedia.org/wiki/Abdillahi_Abdalla_Yussuf"
     }
   ],
-  "isPartOf": {
+  "is_part_of": {
     "name": "Wikipedia",
     "identifier": "enwiki"
   },
-  "articleBody": {
+  "article_body": {
     "html": "...html goes here...",
     "wikitext": "...wikitext goes here..."
   },
