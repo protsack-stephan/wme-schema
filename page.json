@@ -66,26 +66,26 @@
   },
   "main_entity": {
     "identifier": "Q4682624",
-    "url": "https://www.wikidata.org/wiki/Special:EntityData/Q4682624.json"
+    "url": " https://www.wikidata.org/entity/Q4682624"
   },
   "additional_entities": [
     {
       "identifier": "Q100",
-      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q100.json",
+      "url": " https://www.wikidata.org/entity/Q100",
       "aspects": [
         "L.uk"
       ]
     },
     {
       "identifier": "Q1048694",
-      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q1048694.json",
+      "url": " https://www.wikidata.org/entity/Q1048694",
       "aspects": [
         "T"
       ]
     },
     {
       "identifier": "Q1139587",
-      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q1139587.json",
+      "url": " https://www.wikidata.org/entity/Q1139587",
       "aspects": [
         "L.uk"
       ]
@@ -94,7 +94,7 @@
   "categories": [
     {
       "name": "Category:1706 births",
-      "url": "https://en.wikipedia.org/wiki/Category:1790_deaths"
+      "url": "https://en.wikipedia.org/wiki/Category:1790_births"
     },
     {
       "name": "Category:1790 deaths",
